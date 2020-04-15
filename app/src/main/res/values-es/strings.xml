@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Miwok</string>
+    <string name="Black">Negra</string>
+    <string name="Brown">Marrón</string>
+    <string name="Daughter">Hija</string>
+    <string name="Father">Padre</string>
+    <string name="Five">Cinco</string>
+    <string name="Four">Cuatro</string>
+    <string name="Gray">Gris</string>
+    <string name="Green">Verde</string>
+    <string name="Grandfather">Abuelo</string>
+    <string name="Grandmother">Abuela</string>
+    <string name="Eight">Ocho</string>
+    <string name="Are_you_coming">¿vienes?</string>
+    <string name="Come_here">Ven aca</string>
+    <string name="DustyYellow">Amarilla polvorienta</string>
+    <string name="How_are_you_feeling">¿como te sientes?</string>
+    <string name="I_am_coming">ya voy</string>
+    <string name="I_am_feeling_good">me siento bien</string>
+    <string name="Let_us_go">Vamonos</string>
+    <string name="Mother">Madre</string>
+    <string name="MustardYellow">Amarilla mostaza</string>
+    <string name="My_name_is">Me llamo...</string>
+    <string name="Nine">Nueve</string>
+    <string name="OlderBrother">Hermano mayor</string>
+    <string name="OlderSister">Hermana mayor</string>
+    <string name="One">una</string>
+    <string name="Red">roja</string>
+    <string name="Seven">Siete</string>
+    <string name="Six">Seis</string>
+    <string name="Son">Hijo</string>
+    <string name="Ten">Diez</string>
+    <string name="Three">Tres</string>
+    <string name="Two">Dos</string>
+    <string name="What_is_your_name">¿Cuál es su nombre?</string>
+    <string name="Where_are_you_going">¿A dónde vas?</string>
+    <string name="White">Blanca</string>
+    <string name="Yes_I_am_coming">Si, voy para allá</string>
+    <string name="YoungerBrother">Hermano más joven</string>
+    <string name="YoungerSister">Hermana menor</string>
+    <string name="category_colors">Colores</string>
+    <string name="category_family">miembros de la familia</string>
+    <string name="category_numbers">Números</string>
+    <string name="category_phrases">Frases</string>
+</resources>

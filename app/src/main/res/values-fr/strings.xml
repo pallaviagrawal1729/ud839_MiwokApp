@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Miwok</string>
+    <string name="Black">Noire</string>
+    <string name="Brown">Marron</string>
+    <string name="Daughter">Fille</string>
+    <string name="Father">Père</string>
+    <string name="Five">Cinq</string>
+    <string name="Four">Quatre</string>
+    <string name="Gray">Grise</string>
+    <string name="Green">Verte</string>
+    <string name="Grandfather">Grand-père</string>
+    <string name="Grandmother">Grand-mère</string>
+    <string name="Eight">Huit</string>
+    <string name="Are_you_coming">Viens-tu?</string>
+    <string name="Come_here">Venez ici</string>
+    <string name="DustyYellow">Jaune poussiéreux</string>
+    <string name="How_are_you_feeling">Comment allez-vous?</string>
+    <string name="I_am_coming">J\'arrive</string>
+    <string name="I_am_feeling_good">Je me sens bien</string>
+    <string name="Let_us_go">Allons-y</string>
+    <string name="Mother">Mère</string>
+    <string name="MustardYellow">Jaune moutarde</string>
+    <string name="My_name_is">Je m\'appelle...</string>
+    <string name="Nine">Neuve</string>
+    <string name="OlderBrother">Grand frère</string>
+    <string name="OlderSister">Sœur aînée</string>
+    <string name="One">Une</string>
+    <string name="Red">Rouge</string>
+    <string name="Seven">Sept</string>
+    <string name="Six">Six</string>
+    <string name="Son">Fils</string>
+    <string name="Ten">Dix</string>
+    <string name="Three">Trois</string>
+    <string name="Two">Deux</string>
+    <string name="What_is_your_name">Quel est votre nom?</string>
+    <string name="Where_are_you_going">Où allez-vous?</string>
+    <string name="White">Blanche</string>
+    <string name="Yes_I_am_coming">Oui, je viens</string>
+    <string name="YoungerBrother">Frère cadet</string>
+    <string name="YoungerSister">Sœur cadette</string>
+    <string name="category_colors">Couleurs</string>
+    <string name="category_family">membres de la famille</string>
+    <string name="category_numbers">Nombres</string>
+    <string name="category_phrases">Phrases</string>
+</resources>
