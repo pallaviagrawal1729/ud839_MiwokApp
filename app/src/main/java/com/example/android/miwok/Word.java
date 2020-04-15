@@ -13,15 +13,18 @@ import java.util.Objects;
 public class Word {
     private String miwokWord, defaultWord;
     private int imgResourceId;
-    Word(String defau, String miwo, int id){
+    private int audioId;
+    Word(String defau, String miwo, int id, int audId){
         miwokWord=miwo;
         defaultWord=defau;
         imgResourceId=id;
+        audioId=audId;
     }
-    Word(String defau, String miwo){
+    Word(String defau, String miwo, int audId){
         miwokWord=miwo;
         defaultWord=defau;
         imgResourceId=-1;
+        audioId=audId;
     }
     public String getDefaultTranslation(){
         return defaultWord;
@@ -32,4 +35,5 @@ public class Word {
     public int getImageResourceId(){
         return imgResourceId;
     }
+    public int getAudioId(){return audioId;}
 }
